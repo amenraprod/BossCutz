@@ -55,8 +55,10 @@
         <?php
          $args = array(
      	 'theme_location' => 'header-menu',
-			 'container' => 'nav', 
-				 				 )
+			 'container' => 'nav',
+			 'container_class' => 'site-nav'
+		 );
+				wp_nav_menu($args);
 				?>
 				</div>
 			</div>
