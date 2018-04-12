@@ -133,6 +133,9 @@ height: 73px;
 		height: 73px;
 		float: right;
 	}
+	.nav ul li {
+		float: left;
+	}
 }
 /* sidebar */
 .sidebar {
