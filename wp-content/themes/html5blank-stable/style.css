@@ -136,6 +136,7 @@ height: 73px;
 	.nav ul li {
 		float: left;
 		padding: 0 15px;
+		height: 100%;
 	}
 }
 /* sidebar */
