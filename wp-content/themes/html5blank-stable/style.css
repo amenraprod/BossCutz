@@ -29,6 +29,16 @@
 html {
 	box-sizing: border-box;
 }
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+h1 {
+	font-size: 48px;
+}
+h2 {
+	font-size: 40px;
+}
+
 body {
 	font:300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	color:#444;
