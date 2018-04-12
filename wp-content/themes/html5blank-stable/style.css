@@ -47,6 +47,8 @@ h4 {
 .clear,
 .clear::after {
 	content:'';
+	clear: both;
+	
 }
 
 body {
