@@ -116,7 +116,7 @@ height: 73px;
 	padding: 12px 0;
 	text-align: center;
 }
-.nav ul li.current-page-item {
+.nav ul li.current_page_item {
 	background-color: #C59969;
 }
 .nav ul li a {
