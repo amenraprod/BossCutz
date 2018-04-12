@@ -28,6 +28,7 @@ if (function_exists('add_theme_support'))
       register_nav_menus(array(
         'header-menu' => __('Header Menu', 'bosscutz'),
         'social-menu' => __('Social Menu', 'bosscutz')
+
       ) );
     }
     add_action('init', 'bosscutz_menus');
