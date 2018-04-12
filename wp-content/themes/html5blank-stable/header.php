@@ -35,7 +35,7 @@
 					<div class="logo">
 						<a href="<?php echo home_url(); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
-							<img src="C:\laragon\www\bosscutz\wp-content\themes\html5blank-stable\img\image1-2.png" alt="Logo" class="logo-img">
+							<img src="http://bosscutz-com.stackstaging.com/wp-content/uploads/2018/04/image1-2.jpg" alt="Logo" class="logo-img">
 						</a>
 					</div>
 					<!-- /logo -->
