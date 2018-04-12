@@ -50,6 +50,9 @@ h4 {
 	clear: both;
 	display: block;
 }
+.container {
+	max-width: 1100px;
+}
 
 body {
 	font:300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
