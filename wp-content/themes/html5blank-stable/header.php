@@ -44,15 +44,7 @@
 					<!-- nav -->
 						<div class="header-information">
 							<div class-"socials">
-								<?php
-                $args = array(
-									'theme_location' => 'social-menu',
-									'container' => 'nav',
-									'container_class' => 'socials'
-								);
-								wp_nav_menu($args);
-
-								?>
+								
 							</div>
 						</div> <!--socials -->
 						<div class="address">
