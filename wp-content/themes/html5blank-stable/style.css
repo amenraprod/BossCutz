@@ -116,6 +116,9 @@ height: 73px;
 	padding: 12px 0;
 	text-align: center;
 }
+.nav ul li.current-page-item {
+	background-color: #C59969;
+}
 .nav ul li a {
 	font-size: 1.4rem;
 	font-size: 14px;
