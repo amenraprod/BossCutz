@@ -133,6 +133,7 @@ background-color: rgba(0,0,0, .75);
 .nav ul li a {
 	font-size: 1.4rem;
 	font-size: 14px;
+	font-weight: bold;
 }
 /* sidebar */
 .sidebar {
