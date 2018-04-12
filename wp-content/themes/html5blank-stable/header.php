@@ -41,19 +41,27 @@
 					<!-- /logo -->
 
 					<!-- nav -->
-					<div class="main-menu">
-						<div class="navigation">
 						<div class="header-information">
 							<div class-"socials">
+							</div>
+						</div> <!--socials -->
+						<div class="address">
+							<p>27309 Michigan Ave, Inkster, MI, 48141</p>
+							<p>Phone Number: (313) 551-4675</p>
+						</div>
+
+
 					<nav class="nav" role="navigation">
 						<?php html5blank_nav(); ?>
 					</nav>
 					<!-- /nav -->
 
 			</header>
+
 			<!-- /header -->
 			<!-- Begin menu !-->
-
+			<div class="main-menu">
+				<div class="navigation">
 					</div>
 				</div>
 			</div>
