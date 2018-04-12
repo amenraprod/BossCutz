@@ -44,6 +44,10 @@ h3 {
 h4 {
 	font-size: 24px;
 }
+.clear,
+.clear::after {
+	content:'';
+}
 
 body {
 	font:300 11px/1.4 'Helvetica Neue', Helvetica, Arial, sans-serif;
