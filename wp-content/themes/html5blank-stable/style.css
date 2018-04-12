@@ -126,6 +126,10 @@ background-color: rgba(0,0,0, .75);
 	list-style: none;
 	padding: 0;
 }
+.nav ul li {
+	padding: 20px 0;
+
+}
 /* sidebar */
 .sidebar {
 
