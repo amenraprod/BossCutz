@@ -41,7 +41,10 @@
 					<!-- /logo -->
 
 					<!-- nav -->
-
+					<div class="main-menu">
+						<div class="navigation">
+						<div class="header-information">
+							<div class-"socials">
 					<nav class="nav" role="navigation">
 						<?php html5blank_nav(); ?>
 					</nav>
@@ -50,10 +53,7 @@
 			</header>
 			<!-- /header -->
 			<!-- Begin menu !-->
-			<div class="main-menu">
-				<div class="navigation">
-        <div class="header-information">
-					<div class-"socials">
+
 					</div>
 				</div>
 			</div>
