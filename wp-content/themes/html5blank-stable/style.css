@@ -131,7 +131,7 @@ height: 73px;
 	}
 	.nav ul {
 		height: 73px;
-		
+		float: right;
 	}
 }
 /* sidebar */
