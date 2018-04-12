@@ -1,6 +1,6 @@
 <?php
 /*
- *  Author: Todd Motto | @toddmotto
+ *  Author: Todd Motto | @
  *  URL: html5blank.com | @html5blank
  *  Custom functions, support, custom post types and more.
  */
@@ -24,6 +24,12 @@ if (function_exists('add_theme_support'))
 {
     // Add Menu Support
     add_theme_support('menus');
+    function bosscutz_menus(){
+      register_nav_menus(array(
+        'header-menu' => __('Header Menu', 'bosscutz');
+      ) );
+    }
+    add_action('init', 'bosscutz_menus');
 
     // Add Thumbnail Theme Support
     add_theme_support('post-thumbnails');
