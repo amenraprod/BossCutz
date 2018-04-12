@@ -32,6 +32,7 @@
 			<header class="header clear" role="banner">
 
 					<!-- logo -->
+					<div class="container">
 					<div class="logo">
 						<a href="<?php echo home_url(); ?>">
 							<!-- svg logo - toddmotto.com/mastering-svg-use-for-a-retina-web-fallbacks-with-png-script -->
@@ -58,6 +59,7 @@
 							<p>27309 Michigan Ave, Inkster, MI, 48141</p>
 							<p>Phone Number: (313) 551-4675</p>
 						</div>
+					</div> <!--end container -->
 
 
 					<nav class="nav" role="navigation">
