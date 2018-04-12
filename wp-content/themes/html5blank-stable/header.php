@@ -52,6 +52,11 @@
 			<!-- Begin menu !-->
 			<div class="main-menu">
 				<div class="navigation">
-        
+        <?php
+         $args = array(
+     	 'theme_location' => 'header-menu',
+			 'container' => 'nav', 
+				 				 )
+				?>
 				</div>
 			</div>
