@@ -26,7 +26,7 @@ if (function_exists('add_theme_support'))
     add_theme_support('menus');
     function bosscutz_menus(){
       register_nav_menus(array(
-        'header-menu' => __('Header Menu', 'bosscutz');
+        'header-menu' => __('Header Menu', 'bosscutz')
       ) );
     }
     add_action('init', 'bosscutz_menus');
