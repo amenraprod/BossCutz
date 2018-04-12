@@ -115,6 +115,7 @@ height: 73px;
 .nav ul li {
 	padding: 12px 0;
 	text-align: center;
+	margin: 0;
 }
 .nav ul li.current_page_item {
 	background-color: #C59969;
